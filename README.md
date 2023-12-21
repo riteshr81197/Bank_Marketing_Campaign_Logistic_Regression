@@ -1,13 +1,13 @@
 # Bank_Marketing_Campaign_Classification
 Minutes of Meeting
 
-Meeting Details: Was the Bank Campaign Successful
-Date: 19-12-2023
-Location/Virtual Platform: Kackerstrasse 7 learning room
+Meeting Details: Was the Bank Campaign Successful<br>
+Date: 19-12-2023<br>
+Location/Virtual Platform: Kackerstrasse 7 learning room<br>
 
     * Git Repository was created for Code Conduct
     * Discussed and decided to work individually on Prepossing and Model Creation
-        * Model Assigned 
+        * Model Assigned
             * Atfan - Decision Tree Model / Random Forest Model
             * Harsh - Support Vector Machine Model
             * Ritesh - Logistics Regression
@@ -18,4 +18,4 @@ Location/Virtual Platform: Kackerstrasse 7 learning room
 
     Pre- processing reference- (Bank.ipynb)
 
-First Review Meet - **07/Jan/2023**
+First Review Meet - **07/Jan/2023**<br>
